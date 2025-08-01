@@ -1,7 +1,11 @@
 # workshop
 
-testtest
-test2test2
-test3test3
-test4test4
-test4test5
+## Contributing
+
+- Clone this repository
+
+  ```sh
+  git clone git@github.com:Greek-Academy/github-pr-workshop.git
+  ```
+
+- Edit with IDE
